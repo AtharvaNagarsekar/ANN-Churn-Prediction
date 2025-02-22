@@ -1,7 +1,3 @@
 annclassification/
 logs/
 venv/
-le.pkl
-model.h5
-ohe.pkl
-scaler.pkl
